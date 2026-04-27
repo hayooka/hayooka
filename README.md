@@ -1,3 +1,8 @@
+## 👋 About Me
+
+Computer Engineering student, focused on building real-world intelligent systems that combine AI, signal processing, and embedded hardware.
+
+I work on problems where software meets the physical world — especially in audio systems, robotics, and cyber-physical security.
 
 
 ## 🛠️ Tech Stack
@@ -33,6 +38,51 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farah.alhayek.404@gmail.com)
 
 <br>
+
+<br>
+
+## ⚙️ What I'm Working On
+
+- 🎧 **Sound-Based Scene Descriptor for Hearing-Impaired Users**
+  — sound recognition + localization + speech-to-text
+
+- 🏭 **Industrial Control Systems Digital Twin**
+  — prediction, anomaly detection, synthetic attack generation
+
+- 🤖 **Robotics & Embedded Systems**
+  — Arduino + Raspberry Pi, real-time control and sensing
+
+<br>
+
+## 🧩 How I Work
+
+I prefer building systems from the ground up — from raw signals and sensors to model design — to fully understand how things behave in real environments.
+
+I learn best through experimentation and hands-on projects, especially when working under real constraints.
+
+<br>
+
+## 🚀 Highlight Projects
+
+### 🎧 Assistive Audio System
+Real-time system that detects environmental sounds, localizes their direction, and converts speech to text for hearing-impaired users.
+- Multi-microphone processing
+- Real-time constraints
+- Robustness to noise
+
+### 🏭 ICS Digital Twin
+Model that predicts system behavior and detects cyber-physical attacks using residual analysis, with synthetic data generation for attack scenarios.
+- Time-series forecasting (GRU)
+- Anomaly detection
+- Synthetic data generation
+
+### 🤖 Robotics (Competitions)
+Built autonomous robotic systems using Arduino, focusing on sensor processing, control logic, and real-time decision-making.
+- 🏆 World Robot Olympiad (Future Engineers) participant
+- 2 robotics competitions total
+
+<br>
+
 
 ## 💬 Personal Note
 
