@@ -1,19 +1,93 @@
-# 💫 About Me:
-# 👋 About Me<br><br>Computer Engineering student based in Kuwait, focused on building real-world intelligent systems that combine AI, signal processing, and embedded hardware.<br><br>I work on problems where software meets the physical world — especially in audio systems, robotics, and cyber-physical security.<br><br>---<br><br># ⚙️ What I’m Working On<br><br>* 🎧 Sound-Based Scene Descriptor for Hearing-Impaired Users<br>  (sound recognition + localization + speech-to-text)<br><br>* 🏭 Industrial Control Systems Digital Twin<br>  (prediction, anomaly detection, synthetic attack generation)<br><br>* 🤖 Robotics & Embedded Systems<br>  (Arduino + Raspberry Pi, real-time control and sensing)<br><br>---<br><br># 🧩 How I Work<br><br>I prefer building systems from the ground up — from raw signals and sensors to model design — to fully understand how things behave in real environments.<br><br>I learn best through experimentation and hands-on projects, especially when working under real constraints.<br><br>---<br><br># 🛠️ Tech Stack<br><br>### AI / Machine Learning<br><br>* PyTorch, TensorFlow (YAMNet), Scikit-learn<br>* GRU, CNN (time-series & audio)<br>* Residual-based anomaly detection<br><br>### Signal Processing<br><br>* Multi-microphone audio processing<br>* GCC, IPD, Log-Mel features<br><br>### Robotics & Embedded<br><br>* Arduino (extensive hands-on work)<br>* Raspberry Pi<br>* Sensor integration, motor control, real-time logic<br><br>### Software<br><br>* Python, C, Java<br>* Flask (basic full-stack)<br>* Streamlit<br><br>### Tools<br><br>* Git<br>* LaTeX<br>* Linux basics<br><br>---<br><br># 🚀 Highlight Projects<br><br>### 🎧 Assistive Audio System<br><br>Real-time system that detects environmental sounds, localizes their direction, and converts speech to text for hearing-impaired users.<br><br>Focus:<br><br>* Multi-microphone processing<br>* Real-time constraints<br>* Robustness to noise<br><br>---<br><br>### 🏭 ICS Digital Twin<br><br>Model that predicts system behavior and detects cyber-physical attacks using residual analysis, with synthetic data generation for attack scenarios.<br><br>Focus:<br><br>* Time-series forecasting (GRU)<br>* Anomaly detection<br>* Synthetic data generation<br><br>---<br><br>### 🤖 Robotics (Competitions)<br><br>Built autonomous robotic systems using Arduino, focusing on sensor processing, control logic, and real-time decision-making.<br><br>* Participated in 2 robotics competitions<br>* Including World Robot Olympiad (Future Engineers)<br><br>---<br><br># 💬 Personal Note<br><br>I enjoy solving complex problems step by step and turning ideas into working systems.<br><br>---<br><br># 🤝 Open to<br><br>Collaboration in AI, robotics, and embedded systems.<br>
+## 👋 About Me
 
+Computer Engineering student, focused on building real-world intelligent systems that combine AI, signal processing, and embedded hardware.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-alhayek-029032378/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farah.alhayek.404@gmail.com)
+I work on problems where software meets the physical world — especially in audio systems, robotics, and cyber-physical security.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hayooka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hayooka&theme=dark&hide_border=true)<br/>
+<br>
+
+## ⚙️ What I'm Working On
+
+- 🎧 **Sound-Based Scene Descriptor for Hearing-Impaired Users**
+  — sound recognition + localization + speech-to-text
+
+- 🏭 **Industrial Control Systems Digital Twin**
+  — prediction, anomaly detection, synthetic attack generation
+
+- 🤖 **Robotics & Embedded Systems**
+  — Arduino + Raspberry Pi, real-time control and sensing
+
+<br>
+
+## 🧩 How I Work
+
+I prefer building systems from the ground up — from raw signals and sensors to model design — to fully understand how things behave in real environments.
+
+I learn best through experimentation and hands-on projects, especially when working under real constraints.
+
+<br>
+
+## 🚀 Highlight Projects
+
+### 🎧 Assistive Audio System
+Real-time system that detects environmental sounds, localizes their direction, and converts speech to text for hearing-impaired users.
+- Multi-microphone processing
+- Real-time constraints
+- Robustness to noise
+
+### 🏭 ICS Digital Twin
+Model that predicts system behavior and detects cyber-physical attacks using residual analysis, with synthetic data generation for attack scenarios.
+- Time-series forecasting (GRU)
+- Anomaly detection
+- Synthetic data generation
+
+### 🤖 Robotics (Competitions)
+Built autonomous robotic systems using Arduino, focusing on sensor processing, control logic, and real-time decision-making.
+- 🏆 World Robot Olympiad (Future Engineers) participant
+- 2 robotics competitions total
+
+<br>
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=hayooka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=hayooka&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hayooka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=hayooka&icon=3&color=5)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farah-alhayek)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farah.alhayek.404@gmail.com)
+
+<br>
+
+## 💬 Personal Note
+
+I enjoy solving complex problems step by step and turning ideas into working systems.
+
+> 🤝 Open to collaboration in AI, robotics, and embedded systems.
+
+---
+
+![](https://komarev.com/ghpvc/?username=hayooka&color=blueviolet&style=flat)
