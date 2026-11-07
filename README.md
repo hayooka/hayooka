@@ -1,4 +1,4 @@
-<h2>👋 مرحبا — Hi, I'm Farah 🇵🇸</h2>
+<h2>👋 أهلًا :) — Hi, I'm Farah </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=149954&vCenter=true&width=600&lines=Computer+Engineer+%E2%86%92+AI+Researcher;Signal+Processing+%2B+Embedded+Systems;I+build+%E2%80%A2+I+question+%E2%80%A2+I+explore+%E2%80%A2+I+teach;Teaching+kids+to+build+circuits+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -66,7 +66,7 @@ I care about *why* things work, and whether a claimed improvement actually holds
 Breaking complex ideas into steps someone can actually follow.
 
 - 💻 Programming tutor — Python, C/C++, Arduino, intro AI/ML, from beginner level
-- ⚡ Bilingual (Arabic/English) Arduino & paper-circuit workshops for kids
+- ⚡ (Arabic/English) Arduino & paper-circuit workshops for kids
 - 🎬 Training teachers to create videos with AI tools
 - 🎤 Invited talk at KISR on AI in research & academic writing
 
@@ -77,7 +77,6 @@ Breaking complex ideas into steps someone can actually follow.
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e86e1c?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **AI / ML**
@@ -99,8 +98,6 @@ Breaking complex ideas into steps someone can actually follow.
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=hayooka&theme=dark&hide_border=true&title_color=149954&icon_color=E4312B&include_all_commits=false&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=hayooka&theme=dark&hide_border=true&ring=149954&fire=E4312B&currStreakLabel=149954)
 
